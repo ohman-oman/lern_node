@@ -1,0 +1,26 @@
+{
+  "name": "lern_node",
+  "version": "1.0.0",
+  "description": "learn api nodejs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmannurhaqiqi010395/lern_node.git"
+  },
+  "author": "Rohman Nur Haqiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohmannurhaqiqi010395/lern_node/issues"
+  },
+  "homepage": "https://github.com/rohmannurhaqiqi010395/lern_node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {}
+}
